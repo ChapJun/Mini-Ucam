@@ -11,3 +11,7 @@
 * IDE : Eclipse
 * DB : Mysql
 * Programming Language  : HTML, CSS, JSP, JAVA
+
+## DB 설계
+
+![db](db.png)
